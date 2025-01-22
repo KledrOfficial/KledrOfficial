@@ -40,6 +40,8 @@
 | Projekt | Opis | Technologie |
 |---------|------|-------------|
 | [KZ Website](https://kznowezycie.pl/) | Strona stworzona dla KZ Nowe Życie | Next.js, Tailwind CSS, Sanity, Typescript, Javascript |
+| [Power Line](https://www.power-line.pl) | Przyszła strona dla firmy | Next.js, tailwind CSS, Typesctipt |
+
 
 ---
 
