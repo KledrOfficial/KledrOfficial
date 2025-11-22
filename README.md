@@ -14,8 +14,6 @@
 - Integracja zaawansowanych systemów CMS (np. Sanity)
 - Optymalizacja aplikacji internetowych
 
-💡 Obecnie pracuję nad **[Twoje obecne projekty lub technologie]**.
-
 📫 Możesz się ze mną skontaktować przez: 
 - Email: [joel.tatysiak@gmail.com](mailto:joel.tatysiak@gmail.com)
 - LinkedIn: [Sprawdź](https://linkedin.com/in/joel-tatysiak)
